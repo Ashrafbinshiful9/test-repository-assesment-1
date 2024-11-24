@@ -1,5 +1,5 @@
 #exercise8
-names = ["Ashraf", "harneet", "aryan", "rahim", "afsar", "ali"] 
+names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"] 
 
 search_name = input("Enter name to search: ")
 
