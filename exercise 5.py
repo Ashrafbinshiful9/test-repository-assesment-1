@@ -13,10 +13,11 @@ months_days = {
     11: 30, # November
     12: 31  # December
 }
+
 month_number = int(input("Enter the month number (1-12): "))
 
 if 1 <= month_number <= 12:
-    print(f"The month has {months_days[month_number]} days.")
+    print("The month has", months_days[month_number], "days.")
 else:
     print("Invalid month number! Please enter a number between 1 and 12.")
 
